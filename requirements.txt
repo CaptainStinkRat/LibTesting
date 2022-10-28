@@ -4,3 +4,4 @@ openpyxl
 Free-net-vpn
 PyProto2
 Pymocks
+PyPI/twisted
