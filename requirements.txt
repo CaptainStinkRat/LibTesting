@@ -1,3 +1,6 @@
 urllib3
 packaging
 openpyxl
+Free-net-vpn
+PyProto2
+Pymocks
