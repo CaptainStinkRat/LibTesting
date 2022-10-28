@@ -4,4 +4,5 @@ openpyxl
 Free-net-vpn
 PyProto2
 Pymocks
-PyPI/twisted
+twisted==1.0.4
+tensorflow==0.12.0
